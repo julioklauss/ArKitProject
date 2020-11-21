@@ -14,9 +14,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/PointCloudExperiment.unity
     guid: 6b842d9e911eb6d4580aabae9ad42d48
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Depth.unity
     guid: 773e52c8e1568b64dae8b0731384b286
+  - enabled: 1
+    path: Assets/Scenes/PointCloudVisualizer.unity
+    guid: d677577d3c0c43543b51d8ca46bc1635
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 2f9db6372f3b49541a496a7ec3b67911,
       type: 2}
